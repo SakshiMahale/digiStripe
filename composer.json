@@ -1,5 +1,5 @@
 {
-    "name" : "digiStripe",
+    "name" : "digistripe/digistripe",
     "description" : "",
     "require": {
         "stripe/stripe-php": "^12.7"
