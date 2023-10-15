@@ -1,4 +1,7 @@
 {
+    "name": "digistripe/digi-stripe",
+    "description": "digi payment site",
+    "license": "proprietary",
     "require": {
         "stripe/stripe-php": "^12.7"
     }
